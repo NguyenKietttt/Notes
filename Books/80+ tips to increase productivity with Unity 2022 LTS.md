@@ -16,3 +16,7 @@ Recommended formats from Unity:
 ## Pause execution with Debug.Break
 
 This is useful if you want to check certain values in the Inspector when the application is difficult to pause manually.
+
+## References
+
+[80+ tips to increase productivity with Unity 2022 LTS](https://drive.google.com/file/d/1dwaq_49eaTp3H0IW2KCxiv3hc4uH1hyP/view)
